@@ -1,7 +1,7 @@
 # Auto-Join-Zoom-Classes
 This code can auto join your zoom classes for you
 
-## Zoom Settings to be done as a pre requiste
+## Zoom Settings to be done as a pre requisite
 Select these video settings
 ![image](https://user-images.githubusercontent.com/24270365/130202458-0e22ef1d-26cd-4ffc-87d0-e352a21dcc10.png)
 
