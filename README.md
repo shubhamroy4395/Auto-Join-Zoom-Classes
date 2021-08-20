@@ -16,3 +16,9 @@ Select the prompt option in the browser
 
 ## Edit the weekdays such as friday, saturday etc and enter time in 24 hours format
 ![image](https://user-images.githubusercontent.com/24270365/130202957-dc3143d2-c075-4a96-9319-fbcba70af8b2.png)
+
+## Needed
+Python 3
+Schedule Package
+Time
+Web browser
